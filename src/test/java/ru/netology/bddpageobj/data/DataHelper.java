@@ -38,9 +38,4 @@ public class DataHelper {
     public static CardInfo getSecondCardInfo() {
         return new CardInfo("5559 0000 0000 0002", "10 000");
     }
-
-    public static int getMoneyAmount() {
-        int i = 100000;
-        return i;
-    }
 }
